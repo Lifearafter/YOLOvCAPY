@@ -1,0 +1,9 @@
+train: C:\Zaid\Fun_Projects_Code\ACM_Research\Model\YOLOvCAPY\train
+test: C:\Zaid\Fun_Projects_Code\ACM_Research\Model\YOLOvCAPY\test
+valid: C:\Zaid\Fun_Projects_Code\ACM_Research\Model\YOLOvCAPY\val
+#Classes
+nc:  12 # replace classes count 
+#classes names
+#replace all class names list with your custom classes
+namesnames: ['person', 'car', 'bike', 'motor', 'bus', 'truck', 'light',
+        'hydrant', 'sign', 'skateboard', 'scooter', 'other vehicle']
