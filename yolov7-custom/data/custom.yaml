@@ -1,6 +1,6 @@
-train: /home/solomon/dev/YOLOvCAPY/train
-test: /home/solomon/dev/YOLOvCAPY/test
-val: /home/solomon/dev/YOLOvCAPY/val
+train: /home/ubuntu/YOLOvCAPY/train
+test: /home/ubuntu/YOLOvCAPY/test
+val: /home/ubuntu/YOLOvCAPY/val
 #Classes
 nc:  12 # replace classes count 
 #classes names
